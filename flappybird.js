@@ -63,7 +63,7 @@ function displayModeSelection() {
     modeScreen.style.textAlign = "center";
     modeScreen.style.paddingTop = "150px";
     modeScreen.innerHTML = `
-        <h1>Flappy Bird</h1>
+        <h1>APS Kaluchak Flappy Bird Game</h1>
         <p>Select Mode</p>
         <button id="simpleMode" style="padding: 10px 20px; margin: 20px;">Simple Mode</button>
         <button id="hardMode" style="padding: 10px 20px; margin: 20px;">Rain & Wind Mode</button>
